@@ -1,11 +1,14 @@
 import React, { useState } from 'react'
 import { useForm } from 'react-hook-form';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
+import { asyncLoginUser } from '../store/actions/UserAction';
+import { useDispatch } from 'react-redux';
 
 const Login = () => {
-  const [todos, setTodos] = useState([])
-  console.log(todos)
+
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
   const {
     register,
     handleSubmit,
@@ -19,9 +22,12 @@ const Login = () => {
     });
   };
 
-  const handleLogin = (data) => {
-    console.log(data)
+  const handleLogin = (user) => {
+    console.log(user)
+    dispatch(asyncLoginUser(user));
     reset();
+    toast.success("Login Successfully.")
+    navigate("/");
   }
   return (
     <div className='flex items-center justify-center w-full h-full'>

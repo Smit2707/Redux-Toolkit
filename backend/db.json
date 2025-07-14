@@ -24,16 +24,45 @@
   ],
   "products": [
     {
-      "id": "1",
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "id": "lONBV9OfR-_E-SQFs30Xd",
+      "title": "Hair Dryer",
+      "price": "2000",
+      "description": "Best Hair Dryer in the market.",
+      "image": "https://imgs.search.brave.com/xSMQzpSlt00jUu7JJvUS272tXgkncJxe_UaOEHl2Ktk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzQv/MjM4Lzk2MS9zbWFs/bC9ibGFjay1oYWly/LWRyeWVyLW9uLWJs/dWUtYW5kLXllbGxv/dy1wYXBlci1iYWNr/Z3JvdW5kLXBob3Rv/LmpwZw",
+      "category": "Electronics",
+      "isAdmin": false
+    },
+    {
+      "id": "4NmXWoLmkxOKA1up8B4yQ",
+      "title": "hair dryer",
+      "price": "399",
+      "description": "Best hairdryer in the scene",
+      "image": "https://imgs.search.brave.com/xSMQzpSlt00jUu7JJvUS272tXgkncJxe_UaOEHl2Ktk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzQv/MjM4Lzk2MS9zbWFs/bC9ibGFjay1oYWly/LWRyeWVyLW9uLWJs/dWUtYW5kLXllbGxv/dy1wYXBlci1iYWNr/Z3JvdW5kLXBob3Rv/LmpwZw",
+      "category": "electronics"
+    },
+    {
+      "id": "jyNbA90yHZAP6SSW5fa7C",
+      "title": "JBL Headphones",
+      "price": "1499",
+      "description": "The JBL Tune 510BT headphones let you stream powerful JBL Pure Bass sound with no strings attached. Easy to use, these headphones provide up to 40 hours of pure pleasure and an extra 2 hours of battery with just 5 minutes of power with the USB-C charging cable. And if a call comes in while you are watching a video on another device, the JBL Tune 510BT seamlessly switches to your mobile. Bluetooth 5.0 enabled and designed to be comfortable, the JBL Tune 510BT headphones also allow you to connect to Siri or Google without using your mobile device. Available in multiple fresh colors and foldable for easy portability, the JBL Tune 510BT headphones are a grab ‘n go solution that helps you to inject music into every aspect of your busy life.",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "electronics"
+    },
+    {
+      "id": "mF0Bv6-JmghUUJfqr4OtP",
+      "title": "Simple Joy Sofa Set",
+      "price": "30000",
+      "description": "The Simple Joy Sofa Set in Black features a cozy sofa, loveseat, and rocker recliner, all upholstered in ultra-soft corduroy with a durable frame and supportive cushions, perfect for adding contemporary comfort and style to any living space.",
+      "image": "https://cdn.homefurn.com/thumbs/0514939_simple-joy-sofa-set-black_1400.jpeg",
+      "category": "furniture"
+    },
+    {
+      "id": "NtcMZmsLefK9xMkEkfpyH",
+      "title": "VATPAVE Men's Shirts",
+      "price": "699",
+      "description": "VATPAVE Mens Summer Striped Shirts Button Down Short Sleeve Vintage Beach Hawaiian Shirts with Pocket\n",
+      "image": "https://imgs.search.brave.com/bgePC-r58Z8PSbPfLHrocbbCB6w0gAldvUbxyNZHYI4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTMv/NjEwLzM2OS9zbWFs/bC9hLXRveS1jYXIt/aXMtc2hvd24taW4t/YS1waG90by5qcGc",
+      "category": "furniture"
     }
   ],
   "cart": []
